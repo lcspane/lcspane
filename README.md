@@ -1,4 +1,4 @@
-<p align="center"><div style="border-radius: 10px; overflow: hidden;"><img src="https://i.imgur.com/zDNSjO8.jpeg" alt="Logo"></div></p>
+<p align="center"><img src="https://i.imgur.com/zDNSjO8.jpeg" alt="Logo"></p>
 
 
 ## 🚀 Sobre mim
