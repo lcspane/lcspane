@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/oanorVE.png =250x250)
+![Logo](https://i.imgur.com/oanorVE.png=250x250)
 
 
 ## 🚀 Sobre mim
