@@ -5,7 +5,7 @@
 E aí pessoal, me chamo Lucas Pane, um cara de 19 anos que está se aprofundando no fascinante universo do desenvolvimento web.
 
 <p align="center">
-  <a href="https://eupane.github.io" style="text-decotarion:none">
+  <a href="https://eupane.github.io" style="text-decotarion: none;">
     <img src="https://img.shields.io/badge/Projetos-090909?style=flat&logo=github&logoColor=white" alt="Projetos">
   </a>
   <a href="https://instagram.com/eupane09">
