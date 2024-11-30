@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/bQ8oOii.png" alt="Logo"></p>
+<p align="center"><img src="https://i.imgur.com/xKdGO01.png" alt="Logo"></p>
 
 ## 🚀 Sobre mim
 Estudante de Análise e Desenvolvimento de Sistemas. Explorando o mundo do código e contribuindo para projetos open source. Veja meu trabalho e colaborações no GitHub!
