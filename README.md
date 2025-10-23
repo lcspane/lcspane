@@ -8,7 +8,7 @@ Estudante de Análise e Desenvolvimento de Sistemas. Explorando o mundo do códi
   <a href="https://www.lcspane.com" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Portifólio-090909?style=flat&logo=github&logoColor=white" alt="Portifólio"></a>
   <a href="https://www.instagram.com/lcspane" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Instagram-090909?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.x.com/lcspane" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Twitter-090909?style=flat&logo=x&logoColor=white" alt="CodePen"></a>
-  <a href="https://www.linkedin.com/in/lcspane/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-090909?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/lcspane/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-090909?style=flat&logo=linked-in&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ## 🛠 Habilidades
