@@ -1,7 +1,11 @@
 <p align="center"><img src="https://i.imgur.com/O9sxJo3.png" alt="Logo"></p>
 
 ## 🚀 Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas. Explorando o mundo do código e contribuindo para projetos open source. Veja meu trabalho e colaborações no GitHub!
+Olá! Me chamo Lucas Pane, desenvolvedor front-end de 21 anos, movido pela paixão por tecnologia e inovação.
+
+Gosto de transformar ideias em interfaces modernas, intuitivas e cheias de propósito, criando experiências digitais que unem beleza, funcionalidade e acessibilidade.
+
+Seja bem-vindo(a) ao meu github! Aqui, criatividade e tecnologia caminham juntas para dar vida a projetos que inspiram e conectam pessoas.
 
 ## 🔗 Links
 <p align="left">
