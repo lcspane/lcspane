@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/O9sxJo3.png" alt="LCSPANE Logo" width="120"></p>
+<p align="center"><img src="https://i.imgur.com/O9sxJo3.png" alt="LCSPANE Logo"></p>
 
 <h1 align="center">Lucas Pane</h1>
 <p align="center"><strong>Desenvolvedor Web & Designer</strong> — Sites, Branding, Tráfego Pago e SEO que geram resultado real.</p>
