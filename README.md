@@ -24,7 +24,6 @@ Se você precisa de presença digital que realmente vende, é comigo mesmo.
   <a href="https://www.lcspane.com" target="_blank"><img src="https://img.shields.io/badge/Portfólio-090909?style=flat&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
   <a href="https://wa.me/5511992815031" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://www.instagram.com/lcspane.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-090909?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.x.com/lcspane" target="_blank"><img src="https://img.shields.io/badge/X-090909?style=flat&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.linkedin.com/in/lcspane/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
